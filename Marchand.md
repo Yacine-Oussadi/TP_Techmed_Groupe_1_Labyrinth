@@ -12,6 +12,4 @@ Vous vous trouvez chez le Marchand, Assurez-vous de bien vous armer pour vos ave
 
 # Directions
 
-- [Tout droit](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Falaise.md) 
-- [Droite](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Game_Over.md)
-- [Gauche](https://github.com)
+- [Tout droit]() 
