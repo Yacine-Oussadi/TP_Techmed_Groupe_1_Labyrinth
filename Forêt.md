@@ -1,4 +1,4 @@
-Vous êtes dans une forêt. Un ours vous attaque. Que faites vous ?
+Après avoir marché quelques temps, vous vous rendez compte que vous êtes dans une forêt. Un ours vous . Que faites vous ?
 
-- Vous grimpez dans un arbre
-- Vous fuyez
+- [Vous grimpez dans un arbre !!!!!](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Game_Over.md)
+- [Vous fuyez !!!!](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marais.md)
