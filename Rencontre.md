@@ -2,12 +2,12 @@
 
 (Vous remarquez un drôle d'individu tout de gris vétu avec une grosse barbe et un chapeau pointu)
 
-- Gants d'Elfs: Excusez mois de vous interrompre pendant vos périples. Je me présente je suis Gants d'Elfs. Ne sauriez-vous pas à tout hasard par ou se trouveraient les portes du Mordor mon brave Héros?
+- Jean D'Alfe: Excusez mois de vous interrompre pendant vos périples. Je me présente je suis Gants D'Alfe. Ne sauriez-vous pas à tout hasard par ou se trouveraient les portes du Mordor mon brave Héros?
 
-(Vous hésitz à prendre au sérieux cet étrange personnage mais il ne semble présenter aucun danger)
+(Vous hésitez à prendre au sérieux cet étrange personnage mais il ne semble présenter aucun danger)
 
 - Vous: Je suis navré mais je n'ai pas la moindre idée d'ou est-ce que ça se trouve.
 
-(Gants d'Elfs a l'air visible déçu. Il vous salue de son chapeau et reprends son chemin)
+(Jean D'Alfe a visiblement l'air déçu. Il vous salue de son chapeau et reprends son chemin)
 
 [Poursuivre votre route](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marchand.md)

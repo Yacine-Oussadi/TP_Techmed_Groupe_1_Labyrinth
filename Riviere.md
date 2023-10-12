@@ -1,7 +1,11 @@
 # Rivière
 
-Il semble que la course poursuite ait prit fin. Vous vous êtes échapé de la forêt mais maintenant il vous faut traverser ce cours d'eau. 
+Il semble que la course poursuite ait prit fin. En traversant la rivère, vous semblez avoir dérouté l'ours. Il vous regarde quelques instant de l'autre côté, puis se retourne, comme s'il ne voulait pas franchir la rivière.  
+Vous vous êtes échapé de la forêt mais maintenant il vous faut décider d'une direction à prendre. 
 
-Heureusement ce n'est pas crue (pour le moment...)
+Heureusement , il ne fait pas trop froid...
 
-[Traverser la rivière](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Rencontre.md)
+***
+
+- [Descendre la rivière](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Falaise.md)
+- [Remonter la rivière](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Rencontre.md)

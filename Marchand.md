@@ -1,4 +1,4 @@
-Vous vous trouvez chez le Marchand, Assurez-vous de bien vous équiper pour vos aventures futures.
+Vous vous trouvez chez le Marchand, assurez-vous de bien vous équiper pour vos aventures futures.
 
 
 # Articles
@@ -10,6 +10,6 @@ Vous vous trouvez chez le Marchand, Assurez-vous de bien vous équiper pour vos 
 
 Vous n'avez pas d'argent pour payer, dommage... Pour votre peine, le marchand vous indique un lieu où loger.
 
-#
+***
 
 - [Suivre la direction indiquée](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/circuitdemonaco.md) 
