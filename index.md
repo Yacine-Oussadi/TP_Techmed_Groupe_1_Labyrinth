@@ -1,6 +1,8 @@
-#  Bienvenu dans le Labyrinth
+#  Bienvenu dans le Labyrinthe
 ### Vous êtes à la case départ
 
-Arrêt de tram Jacques Dollet
+Vous venez d'arriver en ville à l'arrêt de tram Jacques Dollet, avec pour objectif d'atteindre l'UCA. Vous pouvez choisir entre explorer les bâtiments environnants où entrer dans une boutique qui semble acueillante.
 
-Vôtre seule issue est de prendre le tram [vers le crous](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/crous.md) 
+***
+ - [Explorer les environs](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/crous.md)
+ - [Entrer dans la boutique](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marchand.md)

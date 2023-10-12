@@ -1,13 +1,15 @@
-# Hé ho je vous parle
+# Hé ho je vous parle !
 
-(Vous remarquez un drôle d'individu tout de gris vétu avec une grosse barbe et un chapeau pointu)
+*Un drôle d'individu tout de gris vétu avec une grosse barbe et un chapeau pointu agite un batôn de marche sous votre nez.*
 
-- Jean D'Alfe: Excusez mois de vous interrompre pendant vos périples. Je me présente je suis Gants D'Alfe. Ne sauriez-vous pas à tout hasard par ou se trouveraient les portes du Mordor mon brave Héros?
+\- *Jean D'Alfe*: Excusez mois de vous interrompre pendant vos périples. Je me présente je suis Gants D'Alfe. Connaitriez-vous à tout hasard ce qu'est le mot d'or ?
 
-(Vous hésitez à prendre au sérieux cet étrange personnage mais il ne semble présenter aucun danger)
+*Vous hésitez à prendre au sérieux cet étrange personnage mais il semble ne représenter aucun danger.*
 
-- Vous: Je suis navré mais je n'ai pas la moindre idée d'ou est-ce que ça se trouve.
+\- *Vous*: 1.61803398875... 
 
-(Jean D'Alfe a visiblement l'air déçu. Il vous salue de son chapeau et reprends son chemin)
+\- *Jean D'Alfe*: Le mot, pas le nombre... Ce n'est pas grave, c'est déjà impressionnant. Pour ta peine, voici un contact qui pourrait t'aider.
 
-[Poursuivre votre route](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marchand.md)
+*Jean D'Alfe a visiblement l'air déçu. Il vous salue de son chapeau et reprends son chemin.*
+
+[Aller voir le contact](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marchand.md)
