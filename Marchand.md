@@ -1,4 +1,4 @@
-Vous vous trouvez chez le Marchand, Assurez-vous de bien vous armer pour vos aventures futures.
+Vous vous trouvez chez le Marchand, Assurez-vous de bien vous équiper pour vos aventures futures.
 
 
 # Articles
@@ -8,8 +8,8 @@ Vous vous trouvez chez le Marchand, Assurez-vous de bien vous armer pour vos ave
 - Batte de BaseBall 30 G
 - Tickets pour le Grand Prix 150 G
 
+Vous n'avez pas d'argent pour payer, dommage... Pour votre peine, le marchand vous indique un lieu où loger.
 
+#
 
-# Directions
-
-- [Tout droit]() 
+- [Suivre la direction indiquée]() 

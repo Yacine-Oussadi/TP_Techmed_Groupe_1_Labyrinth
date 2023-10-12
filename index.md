@@ -1,4 +1,4 @@
-# Bienvenu dans le labyrinth
+# Bienvenu dans le labyrinthe
 ### Choisissez votre voie:
 
 - [Tout droit]()
