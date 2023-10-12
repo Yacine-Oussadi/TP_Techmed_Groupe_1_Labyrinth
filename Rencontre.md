@@ -10,4 +10,4 @@
 
 (Gants d'Elfs a l'air visible déçu. Il vous salue de son chapeau et reprends son chemin)
 
-[Poursuivre votre route](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/76b5df1bea62ff5c3c93b2dc1b4a12963f5d6094/Marchand.md)
+[Poursuivre votre route](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marchand.md)
