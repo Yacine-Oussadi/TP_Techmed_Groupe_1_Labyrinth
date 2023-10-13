@@ -10,6 +10,6 @@
 
 \- *Jean D'Alfe*: Le mot, pas le nombre... Ce n'est pas grave, c'est déjà impressionnant. Pour ta peine, voici un contact qui pourrait t'aider.
 
-*Jean D'Alfe a visiblement l'air déçu. Il vous salue de son chapeau et reprends son chemin.*
+*Jean D'Alfe a visiblement l'air déçu. Il vous salue de son chapeau et reprend son chemin.*
 
 [Aller voir le contact](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marchand.md)
