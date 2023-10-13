@@ -1,5 +1,6 @@
 # Marchand
-
+***
+![Marchand](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Images/Marchand.jpg)
 ***
 
 Vous vous trouvez chez le Marchand, assurez-vous de bien vous équiper pour vos aventures futures.

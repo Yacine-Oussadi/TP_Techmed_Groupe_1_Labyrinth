@@ -1,4 +1,7 @@
 # Hé ho je vous parle !
+***
+
+![Rencontre](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Images/Rencontre.jpg)
 
 ***
 
