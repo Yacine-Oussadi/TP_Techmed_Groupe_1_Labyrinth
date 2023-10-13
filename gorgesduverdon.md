@@ -1,5 +1,8 @@
 # Les gorges du verdon
-[Découvrir](https://www.google.com/url?sa=i&url=https%3A%2F%2Flesgorgesduverdon.fr%2Fgorges-du-verdon%2F&psig=AOvVaw2FJVry5XgBpJ2rhKa7xb_S&ust=1696944207096000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDZ_viH6YEDFQAAAAAdAAAAABA)
+***
+![Gorges du Verdon](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Images/Gorges_du_Verdon.jpg)
+***
+Un paysage à vous couper le souffle s'étale devant vous, des gorges immenses. Au fond des gorges, deux chemins semblent se distinguer
 
 ***
 

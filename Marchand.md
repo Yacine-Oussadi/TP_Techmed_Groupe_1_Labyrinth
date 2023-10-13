@@ -1,7 +1,11 @@
+# Marchand
+
+***
+
 Vous vous trouvez chez le Marchand, assurez-vous de bien vous équiper pour vos aventures futures.
 
 
-# Articles
+### Articles
 - Café noir 0.5 G
 - Vélo éléctrique 90 G
 - Piolets et cordes  50 G

@@ -1,5 +1,7 @@
 # Hé ho je vous parle !
 
+***
+
 *Un drôle d'individu tout de gris vétu avec une grosse barbe et un chapeau pointu agite un batôn de marche sous votre nez.*
 
 \- *Jean D'Alfe*: Excusez mois de vous interrompre pendant vos périples. Je me présente je suis Gants D'Alfe. Connaitriez-vous à tout hasard ce qu'est le mot d'or ?
@@ -11,5 +13,7 @@
 \- *Jean D'Alfe*: Le mot, pas le nombre... Ce n'est pas grave, c'est déjà impressionnant. Pour ta peine, voici un contact qui pourrait t'aider.
 
 *Jean D'Alfe a visiblement l'air déçu. Il vous salue de son chapeau et reprend son chemin.*
+
+***
 
 [Aller voir le contact](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Marchand.md)
