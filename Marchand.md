@@ -13,7 +13,7 @@ Vous vous trouvez chez le Marchand, assurez-vous de bien vous équiper pour vos 
 - Batte de BaseBall 30 G
 - Tickets pour le Grand Prix 150 G
 
-Vous n'avez pas d'argent pour payer, dommage... Pour votre peine, le marchand vous indique un lieu où loger.
+Vous n'avez pas d'argent pour payer, dommage... Pour votre peine, le marchand vous indique un lieu où vous pourriez peut-être vous remplir les poches.
 
 ***
 
