@@ -1,7 +1,7 @@
 # Falaise
 
 ***
-![Falaise](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Images/Fallaise.jpeg)
+![Falaise](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Images/Falaise.jpg)
 ***
 ### Prépares toi à escalader
 

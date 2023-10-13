@@ -5,7 +5,7 @@
 
 ***
 
-*Un drôle d'individu tout de gris vétu avec une grosse barbe et un chapeau pointu agite un batôn de marche sous votre nez.*
+*Un drôle d'individu tout de gris (ah non?) vétu avec une grosse barbe et un chapeau pointu agite un batôn de marche sous votre nez.*
 
 \- *Jean D'Alfe*: Excusez mois de vous interrompre pendant vos périples. Je me présente je suis Gants D'Alfe. Connaitriez-vous à tout hasard ce qu'est le mot d'or ?
 
