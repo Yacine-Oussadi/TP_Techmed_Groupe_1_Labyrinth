@@ -1,6 +1,6 @@
 # La Cabane Abandonnée
 ***
-![Cabane Abandonnée](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Images/Cabane_abandonn%C3%A9e.jpg)
+![Cabane Abandonnée](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Images/Cabane_abandonnee.jpg)
 
 ***
 

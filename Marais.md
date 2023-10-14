@@ -10,4 +10,4 @@ Vous avez fini par arriver dans un marais. Vous remarqué un groupe de bâtiment
 ***
 
 - [Vers les vieux bâtiments](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/crous.md)
-- [Vers la cabane](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Cabane%20abandonn%C3%A9e.md)
+- [Vers la cabane](https://github.com/Yacine-Oussadi/TP_Techmed_Groupe_1_Labyrinth/blob/main/Cabane_abandonnee.md)
