@@ -1,4 +1,4 @@
-#  Bienvenu dans le Labyrinthe
+#  Bienvenue dans le Labyrinthe
 ***
 ### Vous êtes à la case départ
 
